@@ -1,12 +1,14 @@
-# Term Project
-The purpose of this project is for you to synthesize a number of technical and theoretical skills acquired throughout the course of this semester in Ling 406. You will implement a binary sentiment analyzer that automatically classifies input text as portraying either positive or negative sentiment.
+KangHong Zhao
+Sentimental analysis
 
-Steps to this assignment are as follows:
+  Sentimental analysis is a process of analyzing, processing, inducing and reasoning the subjective text with emotional color. 
 
-  * Read the TermProject.pdf file thoroughly
-  * Work to understand the data
-  * Implement (a) .ipynb script(s) to fulfill the assignment's specifications
-  * Use Git to add and commit your changes
-  * Use Git to push your changes to GitHub
-  
-Do let us know on Piazza if you have questions.
+  file included:
+  Readme.md
+  report.pdf that gives the report
+  baseline.ipynb that gives the baseline program
+  negation.ipynb that gives the improved program with negation
+  stop.ipynb that gives the improved program with stopword
+  tagging.ipynb that gives the improved program with tagging
+  word vectors and text classification.ipynb that gives the improved program with word vectors and test the model in consideration of feature and size.
+  Install gensim==3.8.0 and keras and tensorflow before running word vectors and text classification.ipynb
